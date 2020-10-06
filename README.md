@@ -66,6 +66,7 @@ Sobre a estrutura do ADB, ele é um programa cliente-servidor baseado em três c
 
 
 📌 **Links importantes para esta seção:** 📌
+
 [Mais sobre comandos ADB na página oficial do Android - em português](https://developer.android.com/studio/command-line/adb?hl=pt-br)
 
 ___
@@ -399,8 +400,11 @@ adb bugreport > NomeDoArquivo.txt
 Com estas ferramentas (_logcat_ e _bugreport_) é possível analisar o que está acontecendo com o seu dispositivo em tempo de execução, facilitando a análise de bugs, cenários e comportamentos de serviços.
 
 📌 **Links importantes para esta seção:** 📌
+
 [Logcat - Android](https://developer.android.com/studio/command-line/logcat?hl=pt-br)
+
 [Bugreport - Android](https://developer.android.com/studio/debug/bug-report)
+
 [Configurar opções do desenvolvedor no dispositivo - Android](https://developer.android.com/studio/debug/dev-options)
 
 ___
@@ -423,6 +427,7 @@ fastboot reboot
 ```
 
 📌 **Links importantes para esta seção:** 📌
+
 [Sobre fastboot - Página oficial do Android](https://android.googlesource.com/platform/system/core/+/master/fastboot/#fastboot)
 
 ___
@@ -439,8 +444,12 @@ ___
 
 # O que é o modo _recovery_?
 
-🚧 🚧 Atenção: 🚧 🚧 
+🚧 🚧  **Atenção** 🚧 🚧 
+
 Em modo _recovery_ é possível apagar partições do seu dispositivo, portanto tenha cuidado com as opções que você pode acionar aqui, tenha certeza antes de clicar em qualquer funcionalidade, pois você pode apagar tudo do seu celular.
+
+🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+
 O _recovery_ é um modo à parte do sistema operacional, funcionando em numa partição isolada, ou seja, é possível entrar em modo recovery mesmo que a imagem do seu sistema operacional esteja quebrada, ajudando bastante em situações que você precise reparar algo lógico do seu celular. Em resumo, podemos realizar as seguintes funções a partir do modo _recovery_:
 
 - Reiniciar o dispositivo;
@@ -476,7 +485,9 @@ Este é um modo para dispositivos Samsung onde, por exemplo, é possível utiliz
 </div>
 
 📌 **Links importantes para esta seção:** 📌
+
 [Bootloader - Visão Geral - Android](https://source.android.com/devices/bootloader)
+
 [Samsung Odin - Download](https://samsungodin.com/)
 
 ___
