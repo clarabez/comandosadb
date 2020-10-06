@@ -2,13 +2,7 @@
 <img src="/images/ADB_inicial.png">
 </div>
 
-<b>
-<p style="text-align:center;">⭐️ 🌟 Se este tutorial te ajudou, não esquece de deixar uma estrelinha ⭐️ 🌟</p>
-</b>
-
-<b>
-<p style="text-align:center;">⭐️ 🌟 Se este tutorial te ajudou, não esquece de deixar uma estrelinha ⭐️ 🌟</p>
-</b>
+<b style="text-align:center;">⭐️ 🌟 Se este tutorial te ajudou, não esquece de deixar uma estrelinha ⭐️ 🌟</b>
 
 Este material é um guia básico para inicializar pessoas em testes para dispositivos móveis na plataforma Android, apresentando recursos super úteis e algumas dicas, como:
 - Comandos ADB; 
