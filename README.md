@@ -324,6 +324,10 @@ ___
 
 Estes comandos são bem úteis pra gente realizar ações de forma mais rápida na nossa rotina, então algo que ajuda muito é configurar nosso arquivo de inicialização do sistema operacional implementando algumas funções destas ações. Também podemos utilizar estes recursos para criar alguma biblioteca em um ambiente de automação, afinal temos bibliotecas de comandos ADB para basicamente todas as linguagens :)
 
+Criei o arquivo `/scripts/comandos.sh` com algumas funções em shell script para servir de base para criação de funções de automação de atividades de rotina.
+
+É possível também criá-los em _Python_ ou em outras linguagens. Decidi criar em _shell script_ porque ficou mais simples e direto para que eu usasse no arquivo de inicialização do meu sistema operacional.
+
 ___
 
 # Vamos _debugar_? Algumas maneiras de capturar e analisar _logs_:
