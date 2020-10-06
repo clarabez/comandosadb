@@ -1,8 +1,9 @@
+
 <div align="center">
 <img src="/images/ADB_inicial.png">
-</div>
 
-<b style="text-align:center;">⭐️ 🌟 Se este tutorial te ajudou, não esquece de deixar uma estrelinha ⭐️ 🌟</b>
+<b>⭐️ 🌟 Se este tutorial te ajudou, não esquece de deixar uma estrelinha ⭐️ 🌟</b>
+</div>
 
 Este material é um guia básico para inicializar pessoas em testes para dispositivos móveis na plataforma Android, apresentando recursos super úteis e algumas dicas, como:
 - Comandos ADB; 
@@ -17,7 +18,7 @@ Aqui neste material **não** temos como objetivo falar de _frameworks_ de automa
 
 ___
 
-🗂 **Organização do material:**🗂 
+🗂 **Organização do material:** 🗂 
 
 - Introdução
 - O que são comandos ADB?
@@ -64,7 +65,7 @@ Sobre a estrutura do ADB, ele é um programa cliente-servidor baseado em três c
 **Servidor:** responsável por gerenciar a comunicação entre as partes cliente e daemon.
 
 
-📌**Links importantes para esta seção:**📌
+📌 **Links importantes para esta seção:** 📌
 [Mais sobre comandos ADB na página oficial do Android - em português](https://developer.android.com/studio/command-line/adb?hl=pt-br)
 
 ___
@@ -82,7 +83,7 @@ ADB é um recurso nativo do pacote **Android SDK Platform-tools**, essencial par
 Caso você utilize o Android Studio, você pode baixar este recurso através do SDK manager, como orientado aqui na [página oficial do Android](https://developer.android.com/studio/intro/update#sdk-manager).
 Independente de como você baixou o recurso, você deve adicionar o path (caminho) de onde o SDK está baixado na sua variável de ambiente. Aqui[INSERIR] temos uma seção explicando como configurar suas variáveis de ambiente.
 
-📌**Links importantes para esta seção:**📌
+📌 **Links importantes para esta seção:** 📌
 
 [Página Oficial do Android](https://developer.android.com/studio/releases/platform-tools)
 
@@ -312,7 +313,7 @@ Chamar a aplicação da câmera:
 adb shell input keyevent 26
 ```
 
-📌**Links importantes para esta seção:**📌
+📌 **Links importantes para esta seção:** 📌
 
 [Lista dos KeyEvents - Android](https://developer.android.com/reference/android/view/KeyEvent#KEYCODE_CAMERA)
 
@@ -397,7 +398,7 @@ adb bugreport > NomeDoArquivo.txt
 
 Com estas ferramentas (_logcat_ e _bugreport_) é possível analisar o que está acontecendo com o seu dispositivo em tempo de execução, facilitando a análise de bugs, cenários e comportamentos de serviços.
 
-📌**Links importantes para esta seção:**📌
+📌 **Links importantes para esta seção:** 📌
 [Logcat - Android](https://developer.android.com/studio/command-line/logcat?hl=pt-br)
 [Bugreport - Android](https://developer.android.com/studio/debug/bug-report)
 [Configurar opções do desenvolvedor no dispositivo - Android](https://developer.android.com/studio/debug/dev-options)
@@ -421,7 +422,7 @@ Reiniciar um dispositivo que esteja em modo _fastboot_:
 fastboot reboot
 ```
 
-📌**Links importantes para esta seção:**📌
+📌 **Links importantes para esta seção:** 📌
 [Sobre fastboot - Página oficial do Android](https://android.googlesource.com/platform/system/core/+/master/fastboot/#fastboot)
 
 ___
@@ -438,7 +439,7 @@ ___
 
 # O que é o modo _recovery_?
 
-🚧 🚧 Atenção:🚧 🚧 
+🚧 🚧 Atenção: 🚧 🚧 
 Em modo _recovery_ é possível apagar partições do seu dispositivo, portanto tenha cuidado com as opções que você pode acionar aqui, tenha certeza antes de clicar em qualquer funcionalidade, pois você pode apagar tudo do seu celular.
 O _recovery_ é um modo à parte do sistema operacional, funcionando em numa partição isolada, ou seja, é possível entrar em modo recovery mesmo que a imagem do seu sistema operacional esteja quebrada, ajudando bastante em situações que você precise reparar algo lógico do seu celular. Em resumo, podemos realizar as seguintes funções a partir do modo _recovery_:
 
@@ -474,7 +475,7 @@ Este é um modo para dispositivos Samsung onde, por exemplo, é possível utiliz
 <img src="/images/odin_mode.png">
 </div>
 
-📌**Links importantes para esta seção:**📌
+📌 **Links importantes para esta seção:** 📌
 [Bootloader - Visão Geral - Android](https://source.android.com/devices/bootloader)
 [Samsung Odin - Download](https://samsungodin.com/)
 
