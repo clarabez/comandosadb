@@ -20,21 +20,21 @@ ___
 
 🗂 **Organização do material:** 🗂 
 
-- Introdução
-- O que são comandos ADB?
-- Por que importam?
-- Como instalar e configurar?
-- Primeiros passos com comandos ADB
-- Como utilizá-los em minhas atividades de rotina?
-- Alguns dos meus comandos ADB favoritos
-- KeyEvent - adicionando eventos
-- Como posso automatizar estes comandos?
-- Vamos _debugar_? Algumas maneiras de capturar e analisar _logs_;
-- O que é o _fastboot_?
-- O que é o _bootloader_?
-- O que é o modo _recovery_?
-- O que é o modo _downloading_?
-- O que é um _chipset_?
+- [Introdução](https://github.com/clarabez/comandosadb/blob/master/README.md#introdu%C3%A7%C3%A3o)
+- [O que são comandos ADB?](https://github.com/clarabez/comandosadb/blob/master/README.md#o-que-s%C3%A3o-comandos-adb)
+- [Por que importam?](https://github.com/clarabez/comandosadb/blob/master/README.md#por-que-importam)
+- [Como instalar e configurar?](https://github.com/clarabez/comandosadb/blob/master/README.md#como-instalar-e-configurar)
+- [Primeiros passos com comandos ADB](https://github.com/clarabez/comandosadb/blob/master/README.md#primeiros-passos-com-comandos-adb)
+- [Como utilizá-los em minhas atividades de rotina?](https://github.com/clarabez/comandosadb/blob/master/README.md#como-utiliz%C3%A1-los-em-minhas-atividades-de-rotina)
+- [Alguns dos meus comandos ADB favoritos](https://github.com/clarabez/comandosadb/blob/master/README.md#alguns-dos-meus-comandos-adb-favoritos)
+- [KeyEvent - adicionando eventos](https://github.com/clarabez/comandosadb/blob/master/README.md#keyevent---adicionando-eventos)
+- [Como posso automatizar estes comandos?](https://github.com/clarabez/comandosadb/blob/master/README.md#como-posso-automatizar-estes-comandos)
+- [Vamos _debugar_? Algumas maneiras de capturar e analisar _logs_;](https://github.com/clarabez/comandosadb/blob/master/README.md#vamos-debugar-algumas-maneiras-de-capturar-e-analisar-logs)
+- [O que é o _fastboot_?](https://github.com/clarabez/comandosadb/blob/master/README.md#o-que-%C3%A9-o-fastboot)
+- [O que é o _bootloader_?](https://github.com/clarabez/comandosadb/blob/master/README.md#o-que-%C3%A9-bootloader)
+- [O que é o modo _recovery_?](https://github.com/clarabez/comandosadb/blob/master/README.md#o-que-%C3%A9-o-modo-recovery)
+- [O que é o modo _downloading_?](https://github.com/clarabez/comandosadb/blob/master/README.md#o-que-%C3%A9-o-modo-downloading)
+- [O que é um _chipset_?](https://github.com/clarabez/comandosadb/blob/master/README.md#o-que-%C3%A9-um-chipset)
 
 ___
 
