@@ -437,7 +437,7 @@ ___
 É um software que possibilita a inicialização do sistema operacional de dispositivos como computadores, celulares e alguns outros equipamentos. É através do _bootloader_ que o sistema operacional é carregado.
 
 <div align="center">
-<img src="/images/bootloader_mode.png">
+<img src="/images/bootloader_mode.jpg">
 </div>
 
 ___
@@ -471,7 +471,7 @@ Também podemos acessar este modo utilizando a seguinte combinação dos botões
 Esta é a carinha do modo _Recovery_:
 
 <div align="center">
-<img src="/images/recovery_mode.png">
+<img src="/images/recovery_mode.jpg">
 </div>
 
 ___
@@ -481,7 +481,7 @@ ___
 Este é um modo para dispositivos Samsung onde, por exemplo, é possível utilizar a ferramenta [Odin](https://samsungodin.com/) para atualizar versões de _software_ do seu dispositivo. Os outros recursos do modo _download_ são bem similares aos explicados no modo _recovery_.
 
 <div align="center">
-<img src="/images/odin_mode.png">
+<img src="/images/odin_mode.jpg">
 </div>
 
 📌 **Links importantes para esta seção:** 📌
